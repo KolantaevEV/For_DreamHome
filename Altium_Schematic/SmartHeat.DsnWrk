@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=SmartHeat_Electric_control\SmartHeat_Electric_control.PrjPcb
+[Project2]
+ProjectPath=SmartHeat_Water_control\SmartHeat_Water_control.PrjPcb
+[Project3]
+ProjectPath=SmartHeat_Outdoor_Sensor\SmartHeat_Outdoor_Sensor.PrjPcb

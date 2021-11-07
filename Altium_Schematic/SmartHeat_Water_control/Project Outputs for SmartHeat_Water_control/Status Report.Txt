@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SmartHeat_Water_control.PrjPcb]
+   Generated File[Плата печатная2.TXT]
+   Generated File[Плата печатная2.LDP]
+   Generated File[Плата печатная2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:54:08 On 15.10.2021
